@@ -62,7 +62,7 @@ const updateRecord = async (item) => {
 
   return (
     <div class='container' style={{ marginLeft: '200px' }} >
-        <h2 class='mt-4'>Vehicles are Available</h2>
+        <h2 class='mt-4'>Salary Tables</h2>
 
         <Link type="submit" class="btn btn-primary mt-3" to='/add/Addsalary'>Add Salary</Link>
         

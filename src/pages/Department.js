@@ -66,7 +66,7 @@ const Department = () => {
 
   return (
     <div class='container' style={{ marginLeft: '200px' }} >
-        <h2 class='mt-4'>Vehicles are Available</h2>
+        <h2 class='mt-4'>Department Tables</h2>
 
         <Link type="submit" class="btn btn-primary mt-3" to='/add/Adddepartment'>Add Department</Link>
         

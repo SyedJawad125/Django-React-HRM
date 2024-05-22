@@ -15,6 +15,8 @@ import Updatedepartment from './pages/Updatedepartment'
 import Addsalary from './pages/Addsalary';
 import Updatesalary from './pages/Updatesalary';
 import Addposition from './pages/Addposition';
+import Updateposition from './pages/Updateposition';
+
 
 
 function App() {
@@ -37,7 +39,7 @@ function App() {
         <Route path='/add/Addsalary' element={<Addsalary/>}  />
         <Route path='/update/Updatesalary' element={<Updatesalary/>}  />
         <Route path='add/Addposition' element={<Addposition/>}  />
-        <Route path='update/Updateposition' element={<Addposition/>}  />
+        <Route path='update/Updateposition' element={<Updateposition/>}  />
 
 
       </Routes>
